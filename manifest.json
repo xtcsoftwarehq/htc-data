@@ -1,6 +1,6 @@
 {
- "version": "20261126-130822",
- "count": 137,
+ "version": "20261126-131122",
+ "count": 141,
  "ids": [
   "AU-SA-001",
   "AU-VIC-001",
@@ -14,6 +14,7 @@
   "US-AZ-002",
   "US-AZ-003",
   "US-AZ-007",
+  "US-AZ-008",
   "US-CA-001",
   "US-CA-008",
   "US-CA-009",
@@ -22,6 +23,9 @@
   "US-CA-014",
   "US-CA-015",
   "US-CA-020",
+  "US-CA-021",
+  "US-CA-022",
+  "US-CA-023",
   "US-CO-001",
   "US-CO-004",
   "US-FL-002",
@@ -140,6 +144,6 @@
   "US-WI-002",
   "US-WY-002"
  ],
- "media_files": 311,
- "shows": 181
+ "media_files": 342,
+ "shows": 200
 }
